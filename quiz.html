@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Field Hockey Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="main-box">
+
+    <h1>Field Hockey Quiz</h1>
+    <p class="tagline">Test your knowledge of Field Hockey</p>
+
+    <!-- QUIZ AREA -->
+    <div id="quiz-area">
+        
+        <div class="top-bar">
+            <span id="qno">Question</span>
+            <span id="score">Score: 0</span>
+        </div>
+
+        <div id="question-text"></div>
+
+        <div id="answer-buttons"></div>
+
+        <div id="result-msg"></div>
+
+        <div class="control-buttons">
+            <button id="prevBtn">Previous</button>
+            <button id="skipBtn">Skip</button>
+            <button id="nextBtn">Next</button>
+        </div>
+
+    </div>
+
+    <!-- FINAL RESULT AREA -->
+    <div id="final-area" class="hide">
+        <h2>Quiz Completed 🎉</h2>
+        <p id="final-score"></p>
+        <p id="final-answered"></p>
+        <p id="final-skipped"></p>
+        <br>
+        <button onclick="restart()">Restart Quiz</button>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
