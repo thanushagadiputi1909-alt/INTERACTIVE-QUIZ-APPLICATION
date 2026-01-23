@@ -12,18 +12,6 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-COMPANY: CODETECHIT SOLUTIONS
-
-NAME: M.NIHANTH
-
-INTERN ID: CTIS1181
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTHOSH
-
 DESCRIPTION: An Interactive Quiz Application is a digital platform created to make learning and knowledge testing more enjoyable, engaging, and effective. Instead of relying on traditional methods such as written exams or static online tests, this application offers an interactive experience that encourages users to actively participate while learning. It is designed for students, teachers, professionals, and anyone who enjoys challenging their knowledge in a fun and meaningful way.
 
 The application allows users to choose quizzes based on different subjects, topics, or difficulty levels. This flexibility ensures that users can learn at their own pace and according to their interests. Each quiz typically consists of simple question formats such as multiple-choice, true/false, or short answers, making the experience easy to understand and accessible for all users. A timer feature can be added to increase excitement and help users improve their speed and decision-making skills.
